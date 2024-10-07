@@ -1,0 +1,6 @@
+C:\Users\mvino\source\repos\Diskriminant\Diskriminant\obj\Debug\Diskriminant.csproj.AssemblyReference.cache
+C:\Users\mvino\source\repos\Diskriminant\Diskriminant\obj\Debug\Diskriminant.csproj.CoreCompileInputs.cache
+C:\Users\mvino\source\repos\Diskriminant\Diskriminant\bin\Debug\Diskriminant.dll
+C:\Users\mvino\source\repos\Diskriminant\Diskriminant\bin\Debug\Diskriminant.pdb
+C:\Users\mvino\source\repos\Diskriminant\Diskriminant\obj\Debug\Diskriminant.dll
+C:\Users\mvino\source\repos\Diskriminant\Diskriminant\obj\Debug\Diskriminant.pdb
